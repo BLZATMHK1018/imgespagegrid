@@ -4,7 +4,9 @@
 	图片有多种展示动画效果，主要用到了animate.min.css，如不需要，可以去掉animate.min.css引用。
 
 （2）效果
-![image](http://ojna4zpbt.bkt.clouddn.com/imgggrid.png)
+
+
+
 
 （3）引用
     <link href="http://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
