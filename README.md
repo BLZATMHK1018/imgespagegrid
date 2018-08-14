@@ -16,8 +16,8 @@
 
 
 （4）网页标签
-    <div id="imgDataGrid" style="margin:0 auto;">
-    </div>
+    ‘<div id="imgDataGrid" style="margin:0 auto;">
+    </div>’
 
 （5）js初始化
 	js加载数据有两种方式：
